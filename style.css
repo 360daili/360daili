@@ -1,0 +1,30 @@
+A {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+BODY {
+	FONT-SIZE: 9pt; 
+        FONT-FAMILY: 宋体 COLOR: #CCAAAA; 
+        SCROLLBAR-BASE-COLOR: #F3f3f3
+        bgColor=#ffffff;
+        leftMargin=0 topMargin=10 marginheight="0" marginwidth="0"
+}
+TD {
+	FONT-SIZE: 9pt; FONT-FAMILY: 宋体
+}
+.title {
+	FONT-SIZE: 9pt; COLOR: #ffffff; FONT-FAMILY: 宋体
+}
+.bigtitle {
+	FONT-SIZE: 15pt; COLOR: #000000; FONT-FAMILY: 黑体
+}
+INPUT {
+	BORDER-RIGHT: 1px solid; BORDER-TOP: 1px solid; BORDER-LEFT: 1px solid; COLOR: #000000; BORDER-BOTTOM: 1px solid; BACKGROUND-COLOR: #f3f3f3
+}
+
+* { margin:0; padding:0; font-family: Verdana, Arial; }
+.panel { border:1px solid #888; margin:10px 0; }
+
+    
